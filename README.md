@@ -1,6 +1,7 @@
 # Project Name
 
-> AdCraft.
+> AdCraft is a web application of advertising people's
+homemade crafts to help them market their products.
 
 ## Team
 
